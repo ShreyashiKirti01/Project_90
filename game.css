@@ -1,0 +1,32 @@
+body{
+background:url("84249.webp");
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+}
+
+#info{
+background:linear-gradient(hsl(240, 4%, 14%) 30%, hsl(300, 58%, 10%) 70%, hsl(0, 83%, 11%) 100%);
+width:60%;
+height: 70%;
+color:azure;
+border-style: double;
+}
+
+button{
+background-color: aquamarine;
+cursor: pointer;
+}
+
+h1{
+background-color: rgb(52, 202, 182);
+width:50%;
+}
+
+#first_num{
+margin-top: 30px;
+}
+
+#output{
+background-color: azure;
+}
